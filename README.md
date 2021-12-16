@@ -1,1 +1,1 @@
-# Game in which you should guess number
+# Game in which you should guess the number
