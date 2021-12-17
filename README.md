@@ -1,3 +1,3 @@
 # Game in which you should guess the number
 
-Demo: https://nastassi.github.io/Guess-number-Game/
+Demo: https://nastassii.github.io/Guess-number-Game/
